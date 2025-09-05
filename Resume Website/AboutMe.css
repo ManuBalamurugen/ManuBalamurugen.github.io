@@ -31,3 +31,27 @@ body{
     justify-content: center;
     align-items: center;
 }
+#backprojects{
+    width: 12vh;
+    height: 6vh;
+    margin-left: 1vh;
+    margin-top: 1vh;
+    font-size: 4vh;
+    background-color: transparent;
+    color: #CD8181;
+    border-color: white;
+}
+#skillstext{
+    color: #CD8181;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+}
+.column{
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    color: #CD8181;
+}
