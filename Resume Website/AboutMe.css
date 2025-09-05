@@ -55,3 +55,23 @@ body{
     text-align: center;
     color: #CD8181;
 }
+.circles{
+    display: flex;
+    gap: 10px;
+    
+    padding-left: 30vh;
+}
+.circle{
+    width: 1vh;
+    height: 1vh;
+    border-radius: 50%;
+    border: .3vh solid black;
+    padding-top: 1vh;
+}
+.filled{
+    background-color: green;
+    
+}
+#medidesc{
+    line-height: 2;
+}
