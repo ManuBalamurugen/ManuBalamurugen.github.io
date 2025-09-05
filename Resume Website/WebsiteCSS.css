@@ -21,8 +21,11 @@ body{
     color: #CD8181;
 }
 #me{
-    height: 500px;
+    height: auto;
+    width: 20%;
     margin-right: 100px;
+    display:block;
+    max-width: 100%;
     margin-top: 0px;
     border: solid;
     border-color: white;
